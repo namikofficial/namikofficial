@@ -1,4 +1,4 @@
-- 🌐 Website: https://namikofficial.github.io
+- 🌐 Website: https://namikofficial.github.io | [noxorigin](https://noxorigin.com/)
 - 👋 Hi, I’m @namikofficial
 - 👀 I’m interested in Typescript/Rust
 - 💞️ I’m looking to collaborate on anything which grinds my teeth - mainly Rust/Typescript things and rarely some BASH and Python
