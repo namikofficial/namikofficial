@@ -21,15 +21,15 @@ I’m currently building **NoxOrigin** — a product studio focused on practical
 
 ## Tech I use
 
-**Languages:** TypeScript, Rust, JavaScript, Bash, Python
-**Backend:** Node.js, Express, Fastify, Axum, PostgreSQL, Redis
-**Frontend:** React, Vite, Tailwind CSS, React Native
-**DevOps:** Docker, GitHub Actions, Cloudflare, AWS, Linux
+**Languages:** TypeScript, Rust, JavaScript, Bash and little Python and golang as well
+**Backend:** Node.js, Express, Fastify, Axum, PostgreSQL, Redis, MSSQL
+**Frontend:** React, Vite, Tailwind CSS, React Native, Angular, Jetpack Compose
+**DevOps:** Docker, GitHub Actions, Cloudflare, AWS, Linux, Terraform
 **Other:** Git, tmux, Neovim, local LLMs, RAG, automation tools
 
 ## Collaboration
 
-I’m open to collaborating on serious, useful, and technically interesting projects — especially around **Rust**, **TypeScript**, SaaS platforms, developer tools, and automation.
+I’m open to collaborating on serious, useful, and technically interesting projects — especially around **Rust**, **TypeScript**, SaaS platforms, developer tools, and automation or simply anything open source.
 
 ## Links
 
